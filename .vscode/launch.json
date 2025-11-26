@@ -8,7 +8,7 @@
         "name": "Execute /build/demo_simd",
         "type": "cppdbg",
         "request": "launch",
-        "program": "${workspaceFolder}/build/demo_simd",
+        "program": "${workspaceFolder}/build/demo_tasks",
         "cwd": "${workspaceFolder}",
         "MIMode": "gdb",
         "externalConsole": false,
